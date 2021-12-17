@@ -1,0 +1,13 @@
+{ 'info' : 'Хлеб', 'obj_type' : 'Expenses', 'time' : '01.01.2019', 'summ' : 200, }
+{ 'info' : 'Хлеб', 'obj_type' : 'Expenses', 'time' : '01.02.2019', 'summ' : 149.5, }
+{ 'info' : 'Борщевой набор', 'obj_type' : 'Expenses', 'time' : '01.01.2019', 'summ' : 1200.45, }
+{ 'info' : 'Мука', 'obj_type' : 'Expenses', 'time' : '01.02.2019', 'summ' : 120.0, }
+{ 'info' : 'Хлеб', 'obj_type' : 'Expenses', 'time' : '01.01.2019', 'summ' : 200, }
+{ 'info' : 'Хлеб', 'obj_type' : 'Expenses', 'time' : '01.02.2019', 'summ' : 149.5, }
+{ 'info' : 'Борщевой набор', 'obj_type' : 'Expenses', 'time' : '01.01.2019', 'summ' : 1200.45, }
+{ 'info' : 'Мука', 'obj_type' : 'Expenses', 'time' : '01.02.2019', 'summ' : 120.0, }
+{ 'info' : 'Аванс', 'obj_type' : 'Plan_Income', 'time' : '07.01.2019', 'summ' : 10000, }
+{ 'info' : 'Зарплата', 'obj_type' : 'Plan_Income', 'time' : '21.01.2019', 'summ' : 8000, }
+{ 'info' : 'Аванс+Премия', 'obj_type' : 'Plan_Income', 'time' : '07.02.2019', 'summ' : 16000, }
+{ 'info' : 'Повышение должности', 'obj_type' : 'Plan_Income', 'time' : '07.01.2022', 'summ' : 1400, 'offered' : 'True', }
+{ 'info' : 'Премия', 'time' : '20.12.2001', 'obj_type' : 'Plan_Income', 'offered' : 'False', 'summ' : 2000.0, }
